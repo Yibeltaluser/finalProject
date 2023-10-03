@@ -9,20 +9,13 @@
 
 body{
    
-  
-    /* display: flex; */
     text-align: center;
-   
     justify-content: center;
     /* min-height: 100vh; */
     position: relative;
     padding-bottom: 77.33px;
     min-height: 100vh;
     background-color: #f1f1f1;
-
-    
-
-    
 }
 .header{
     
@@ -31,12 +24,6 @@ body{
     padding: 50px;
     color: #fff;
     background-color: #333;
-    /* display: contents; */
-    
-    
-    /* height: 5vh; */
-    /* padding: 0 5px;
-    color: #5c71db;   */
 
 }
 
@@ -52,19 +39,15 @@ li:hover{
 
 .container{
 
-   
     margin: 30px 20px;
     width: 75%;
-
-   
 
 }
 
 .nav-container {
     
     margin:5%;
-    
-  
+ 
 }
 
 div li a{
@@ -75,9 +58,7 @@ nav ul{
     justify-content: space-between;
     font-size: 20px;
     font-weight: bold;
-    
- 
-    
+  
 }
 li{
     
@@ -89,19 +70,12 @@ li{
 img{
    max-width: 350px;
    height: 200px;
-   
-   
-   
-    
-    
 }
 
 .aboutMe{
     display: flex;
     justify-content: space-between;
     gap: 10px;
-    
-
    
 }
 .home{
@@ -133,9 +107,6 @@ a{
     background-color: #333;
     position: absolute;
     bottom: 0;
-    
-    
-    /* display: contents; */
     
 }
 
@@ -225,8 +196,6 @@ a{
 {
     font-weight: 300;
 }
-
-
 
 
 .container .right-side
